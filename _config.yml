@@ -16,10 +16,10 @@ facebook_username:
 twitter_username:
 github_username:
 address:
-  - line: -
-  - line: -
+  - line: "Iran"
+  - line: "Fars"
   # Feel free to add more lines here 
-telephone: -
+telephone: 0210001
 copyright: 2015-2016
 
 # API settings
